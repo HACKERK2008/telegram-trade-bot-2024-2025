@@ -1,0 +1,25 @@
+# File: requirements.txt
+
+# Telegram Bot Framework
+aiogram
+
+# Env loader
+python-dotenv
+
+# Data handling (future use)
+pandas
+requests
+
+# Visualization (future use)
+matplotlib
+plotly
+
+# Scheduling & async (future use)
+aiohttp
+schedule
+
+# For TOTP-based login with AngelOne
+pyotp
+
+# Optional: Logging & Dev tools
+loguru

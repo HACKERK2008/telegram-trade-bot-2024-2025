@@ -1,0 +1,12 @@
+2025-05-30 17:43:08,836 - ERROR - JSON decode error for C:\Users\Dell\AppData\Local\Temp\tmp52f2ihaw\test_file.json: Expecting value: line 1 column 1 (char 0)
+2025-05-30 17:43:08,838 - ERROR - Read failed for nonexistent.txt: [Errno 2] No such file or directory: 'nonexistent.txt'
+2025-05-30 17:47:22,747 - ERROR - JSON decode error for C:\Users\Dell\AppData\Local\Temp\tmpoegoe88q\test_file.json: Expecting value: line 1 column 1 (char 0)
+2025-05-30 17:47:22,748 - ERROR - Read failed for nonexistent.txt: [Errno 2] No such file or directory: 'nonexistent.txt'
+2025-05-30 17:49:57,058 - ERROR - JSON decode error for C:\Users\Dell\AppData\Local\Temp\tmp5t_l9k9q\test_file.json: Expecting value: line 1 column 1 (char 0)
+2025-05-30 17:49:57,062 - ERROR - Read failed for nonexistent.txt: [Errno 2] No such file or directory: 'nonexistent.txt'
+2025-05-30 17:50:51,477 - ERROR - JSON decode error for C:\Users\Dell\AppData\Local\Temp\tmp0w87zfqb\test_file.json: Expecting value: line 1 column 1 (char 0)
+2025-05-30 17:50:51,479 - ERROR - Read failed for nonexistent.txt: [Errno 2] No such file or directory: 'nonexistent.txt'
+2025-05-30 17:50:51,485 - INFO - Backup created for C:\Users\Dell\AppData\Local\Temp\tmpxjaydlxe\test_file.json at C:\Users\Dell\AppData\Local\Temp\tmpxjaydlxe\test_file.json.bak
+2025-05-30 17:50:51,496 - INFO - Backup created for C:\Users\Dell\AppData\Local\Temp\tmp9425ikxl\test_file.json at C:\Users\Dell\AppData\Local\Temp\tmp9425ikxl\test_file.json.bak
+2025-05-30 18:11:08,708 - INFO - Backup created for C:\Users\Dell\AppData\Local\Temp\tmps86dwbwn at C:\Users\Dell\AppData\Local\Temp\tmps86dwbwn.bak
+2025-05-30 18:11:08,717 - INFO - Backup created for C:\Users\Dell\AppData\Local\Temp\tmpnh34lgku at C:\Users\Dell\AppData\Local\Temp\tmpnh34lgku.bak
